@@ -1,0 +1,11 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red
+}
+.trzy {
+background-color: blue;
+}
+.dwa {
+    opacity: 0.3;
+}
